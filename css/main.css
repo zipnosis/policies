@@ -1,14 +1,5 @@
 /*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
-@font-face {
-  font-family: 'Dagny';
-  src: url('../img/dagny/dagny-regular.eot'); /* IE9 Compat Modes */
-  src: url('../img/dagny/dagny-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../img/dagny/dagny-regular.woff') format('woff'), /* Modern Browsers */
-       url('../img/dagny/dagny-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../img/dagny/dagny-regular.svg#dagnyRegular') format('svg'); /* Legacy iOS */
-}
-
 html,
 button,
 input,
@@ -20,7 +11,7 @@ textarea {
 html {
     font-size: 1em;
     line-height: 1.4;
-    font-family: "Dagny", Helvetica, sans-serif;
+    font-family: 'AvenirNextLTW01-Regular','Avenir Next','Helvetica Neue', sans-serif;
 }
 
 ::-moz-selection {
@@ -68,7 +59,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, strong {
-    font-family: "Montserrat", Helvetica, sans-serif;
+    font-family: 'Avenir Next LT W01 Bold','Avenir Next','Helvetica Neue', sans-serif;
 }
 
 .browsehappy {
@@ -110,7 +101,7 @@ header .catalyze-bg {
     box-shadow: 0 1px 3px rgba(45,69,85,.1), 0 0 0 1px rgba(45,69,85,.05), 0 1px 1px rgba(45,69,85,.08);
 }
 header .catalyze-bg img {
-    height: 25px;
+    height: 27px;
 }
 header .intro p {
     color: #777;
@@ -139,7 +130,8 @@ section > .container {
 }
 
 .content h1 {
-    font-size: 26px;
+    font-size: 28px;
+    font-family: 'Avenir Next W01 Thin', 'Avenir Next','Helvetica Neue', sans-serif;
     margin-top: 0;
     padding-bottom: 20px;
     border-bottom: 3px solid #EEE;
@@ -148,6 +140,7 @@ section > .container {
     font-size: 22px;
     font-weight: 400;
     color: #2098CA;
+    font-family: 'AvenirNextLTW01-Regular', 'Avenir Next','Helvetica Neue', sans-serif;
 }
 .content > h2 {
     margin-top: 0;
@@ -155,6 +148,7 @@ section > .container {
 .content h3 {
     font-size: 16px;
     margin-top: 30px;
+    font-family:'Avenir Next LT W01 Demi','Helvetica Neue', sans-serif;
 }
 .content p {
     font-size: 13px;
@@ -200,8 +194,8 @@ section > .container {
 }
 .cta a span {
     display: inline-block;
-    padding: 7px 15px;
-    font-size: 14px;
+    padding: 5px 10px;
+    font-size: 13px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -243,12 +237,13 @@ section > .container {
     margin-bottom: 0;
 }
 .point h4 {
-    font-size: 22px;
-    margin: 0;
+    font-size: 16px;
+    font-family: 'AvenirNextLTW01-Medium', 'Avenir Next','Helvetica Neue', sans-serif;
+    margin: 0 0 4px;
 }
 .point h5 {
+    font-family: 'AvenirNextLTW01-Regular', 'Avenir Next','Helvetica Neue', sans-serif;
     font-weight: normal;
-    font-family: "Dagny", Helvetica, sans-serif;
     color: #777;
     font-size: 14px;
     line-height: 23px;
@@ -360,6 +355,7 @@ section > .container {
 }
 .card h4 {
     font-size: 13px;
+    font-family: 'AvenirNextLTW01-Medium','Helvetica Neue', sans-serif;
     margin: 0 0 10px;
     padding: 0 0 10px;
     border-bottom: 2px solid #F9F9F9;
@@ -372,7 +368,7 @@ section > .container {
     color: #444;
 }
 .card ol li {
-    padding-left: 15px; 
+    padding-left: 15px;
     text-indent: -10px;
 }
 
@@ -390,7 +386,7 @@ footer {
     margin-right: 30px;
 }
 .logo img {
-    height: 25px;
+    height: 27px;
 }
 .company ul {
     display: inline-block;
