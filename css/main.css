@@ -372,6 +372,10 @@ section > .container {
     text-indent: -10px;
 }
 
+.quote h4 {
+    font-family: 'AvenirNextLTW01-Medium', 'Avenir Next','Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
 .quote p {
     color: #777;
     font-size: 14px;
