@@ -148,7 +148,7 @@ section > .container {
 .content h3 {
     font-size: 16px;
     margin-top: 30px;
-    font-family:'Avenir Next LT W01 Demi','Helvetica Neue', sans-serif;
+    font-family: 'AvenirNextLTW01-Medium', 'Avenir Next', 'Helvetica Neue', sans-serif;
 }
 .content p {
     font-size: 13px;
@@ -355,7 +355,7 @@ section > .container {
 }
 .card h4 {
     font-size: 13px;
-    font-family: 'AvenirNextLTW01-Medium','Helvetica Neue', sans-serif;
+    font-family: 'AvenirNextLTW01-Medium', 'Avenir Next', 'Helvetica Neue', sans-serif;
     margin: 0 0 10px;
     padding: 0 0 10px;
     border-bottom: 2px solid #F9F9F9;
@@ -370,6 +370,43 @@ section > .container {
 .card ol li {
     padding-left: 15px;
     text-indent: -10px;
+}
+
+.quote p {
+    color: #777;
+    font-size: 14px;
+    line-height: 23px;
+}
+.quote-byline {
+    margin-top: 15px;
+    height: 64px;
+    position: relative;
+}
+.quote-byline img {
+    width: 64px;
+    height: 64px;
+    border-radius: 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid #DDD;
+}
+.quote-byline span {
+    display: block;
+    margin-left: 80px;
+    padding-top: 13px;
+}
+.quote-byline strong {
+    display: block;
+    color: #111;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.quote-byline em {
+    display: block;
+    font-style: normal;
+    color: #777;
+    font-size: 11px;
 }
 
 
