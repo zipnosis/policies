@@ -90,7 +90,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-Travis Good, MD
-Co-founder - Zipnosis, Inc
-travis@Zipnosis.io
-303-351-2640
+Derek Rockwell
+Director of Engineering, Security Officer - Zipnosis, Inc
+derek@zipnosis.com
+612-281-5496

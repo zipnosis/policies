@@ -11,7 +11,7 @@ It is the policy of Zipnosis to safeguard the confidentiality, integrity, and av
 * Improper alteration or destruction of ePHI;
 * Out of date software and/or software known to have vulnerabilities.
 
-This policy applies to all Zipnosis Add-on systems, including BaaS, that store, transmit, or process ePHI. This policy, and associated procedures, do not apply to PaaS Customers that do not choose Zipnosis Logging Service.
+This policy applies to all Zipnosis Add-on systems, including SaaS, that store, transmit, or process ePHI.
 
 ## Applicable Standards from the HITRUST Common Security Framework
 
@@ -68,7 +68,6 @@ This policy applies to all Zipnosis Add-on systems, including BaaS, that store, 
 	* Testing may be carried out internally or provided through an external third-party vendor. Whenever possible, a third party auditing vendor should not be providing the organization IT oversight services (e.g., vendors providing IT services should not be auditing their own services - separation of duties).
 	* Testing shall be done on a routine basis, currently monthly.
 14. Software patches and updates will be applied to all systems in a timely manner. In the case of routine updates, they will be applied after thorough testing. In the case of updates to correct known vulnerabilities, priority will be given to testing to speed the time to production. Critical security patches are applied within 30 days from testing and all patches are applied within 90 days after testing.
-	* In the case of PaaS Customers, updates to Application and Database versions are the responsibility of Customers, though Zipnosis will, at it's own discretion, notify and recommend updates to customer systems.
 
 ## Audit Requests
 
@@ -99,7 +98,6 @@ This policy applies to all Zipnosis Add-on systems, including BaaS, that store, 
 4. Audit logs shall be protected from unauthorized access or modification, so the information they contain will be made available only if needed to evaluate a security incident or for routine audit activities as outlined in this policy.
 5. All audit logs are encrypted in transit and at rest to control access to the content of the logs.
 6. Audit logs shall be stored on a separate system to minimize the impact auditing may have on the privacy system and to prevent access to audit trails by those with system administrator privileges. This is done to apply the security principle of “separation of duties” to protect audit trails from hackers.
-7. For PaaS Customers choosing to use Zipnosis logging services, log data will be separated from the log data of other Zipnosis Customers.
 
 ## Workforce Training, Education, Awareness and Responsibilities
 

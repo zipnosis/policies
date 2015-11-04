@@ -62,7 +62,7 @@ The current Zipnosis Privacy Officer is Kevin Smith ([kevin@zipnosis.com](mailto
 
 The Security Officer is responsible for facilitating the training and supervision of all workforce members [164.308(a)(3)(ii)(A) and 164.308(a)(5)(ii)(A)], investigation and sanctioning of any workforce member that is in violation of Zipnosis security policies and non-compliance with the security regulations [164.308(a)(1)(ii)(c)], and writing, implementing, and maintaining all polices, procedures, and documentation related to efforts toward security and compliance [164.316(a-b)].
 
-The current Zipnosis Security Officer is Benjamin Uphoff ([ben@Zipnosis.io](mailto:ben@Zipnosis.io)).
+The current Zipnosis Security Officer is Derek Rockwell ([derek@zipnosis.com](mailto:derek@zipnosis.com)).
 
 ## Organizational Responsibilities
 

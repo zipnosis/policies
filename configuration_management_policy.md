@@ -22,6 +22,6 @@ Zipnosis standardizes and automates configuration management through the use of 
 8. All software and systems are tested using unit tests and end to end tests.
 9. All committed code is reviewed using pull requests (on Github) to assure software code quality and proactively detect potential security issues in development.
 10. Zipnosis utilizes development and staging environments that mirror production to assure proper function.
-11. Zipnosis also deploys environments locally using Vagrant to assure functionality before moving to staging or production.
-12. Zipnosis schedules production deployments every four weeks.
+11. Zipnosis also deploys environments locally to assure functionality before moving to staging or production.
+12. Zipnosis schedules production deployments every two weeks.
 13. All formal change requests require unique ID and authentication.
